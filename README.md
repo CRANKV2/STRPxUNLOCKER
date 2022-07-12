@@ -1,52 +1,40 @@
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/inSzi4n.png" width="500"></a></p>  
+ <h1 align="center"><b> STRP x UNLOCKER </b></h1> 
+ <h4 align="center">▌Games & FPS Unlocker ▌ With New Inbuild Termux Menu! ▌ Powered By Stratosphere ▌</h4>
 
-𝙎𝙩𝙧𝙖𝙩𝙤𝙨𝙥𝙝𝙚𝙧𝙚 - 𝙍𝙖𝙢𝘽𝙤𝙤𝙨𝙩
-
-STRP-RamBoost Will Boost Ur Device Space And Ram After Boot! 
-Boost Manually- Termux >su -c RAMBOOST ! 
-
-UNIVERSAL
-
-════════════════════
-REQUIREMENTS
-
-Magisk 23.0+
-
-Latest Busybox/Brutal
-
-Android 7.0+
-════════════════════
-
- About RamBoost 
+ <a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
  
-════════════════════
-### Is it safe to use?
+ <h1 align="center"><b> UNIVERSAL </b></h1> 
 
-Yes it's Safe, ur main files will stay Untouched!
-════════════════════
-### How to Remove it ?
+--------
 
-Simply Remove the Module Over Magisk!
-════════════════════
-### I'm Facing some Lags after Reboot?!
+## Requirements:
+- Magisk 22.0+
+- Latest Busybox/BrutalBusyBox
+- Android 8.0+
 
-Thats typically normal, Just wait till the Toast Pops up after boot
-[RamBoost Initialize] >> [RamBoost Sucessfully]
-════════════════════
-### Im Facing Random Lag's ?!
+---------
 
-This Problem doesn't Came from RamBoost. Maybe see if some Modules Ur Using are Conflicting Each Other.
-════════════════════
-### How do i know if it works or not?!
+### Games List ...
+- CODM 120 FPS Settings ONLY ULTRA FPS!
+- PUBGM 90 FPS Settings ALL Versions!
+- ML Max Settings!
+- Game For Peace 90 FPS Settings!
+- LifeAfter 120 FPS Settings!
+- Super Clone 120 FPS Settings!
+- HDR EXTREME + FPS PUBGM + BGMI ALL Versions!
+- DEAD TRIGGER 2 EXTREME FPS!
+- League Of Legends - 120FP!
+- Arena Of Valor FPS!
+- SMOOTH 90FPS PUBGM + BGMI ALL Versions!
+- SMOOTH 90FPS ASPHALT 9!
+- SMOOTH 90FPS DEAD TRIGGER 2!
+- UNLOCK CODM EXTREME GRAPHIC!
+- FORTNITE FPS UNLOCK!
 
-Open ur File Manager go into 
-.STRP folder > ramboost.log file too see all what happens in Background and if all worked as it should!
-[U need to enable <see Hidden files into ur file manager to see .STRP folder]
-════════════════════
+-------
 
-JOIN
+## Termux MENU:
+- su -c UNLOCKER
 
-https://t.me/AndroidRootModulesCommunity
-
-═══════════════════
-
- STAY FAST ⚡️
+-------

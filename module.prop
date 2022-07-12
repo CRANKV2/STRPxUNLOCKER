@@ -1,0 +1,9 @@
+id=ProUnlocker
+name=𝙎𝙏𝙍𝙋𝙭𝙐𝙉𝙇𝙊𝘾𝙆𝙀𝙍
+version= v1.2
+versionCode=80
+author=CRANKV2@Telegram
+description=
+support=https://t.me/AndroidRootModulesCommunity
+minMagisk=20300
+updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxUNLOCKER/main/module.json

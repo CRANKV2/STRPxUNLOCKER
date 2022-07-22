@@ -1,3 +1,31 @@
+# STRP x UNLOCKER v1.3
+- ADDED PUBG NEW STATE READ DOWN BELOW!
+------
+### As all of u know 
+- PUBG New STATE will not work if ..
+- ▌TWRP folder gets Detected.
+- ▌Magisk Patched Boot Image gets Detected.
+- ▌ADB Option is Turned ON.
+- ▌Developer Settings Are Enabled.
+- ▌Or Game isn't in Hide List of Magisk itself.
+-----------
+- That is what i Made so far and will be added soon...
+- When ur using PUBG NEW STATE OPTION in ur UNLOCKER Update, this will happen....
+----------
+- ▌TWRP Folder (If exists) will be AUTO Moved and Renamed to avoid Detection of New State.
+- ▌Magisk Patched Boot Image gets AUTO moved and Renamed.
+- ▌ADB Option will be AUTO turned OFF if it is set ON.
+- ▌Developer Settings gets AUTO Disabled if it is ON.
+- ▌NEW STATE Will be Added AUTO into Magisk HIDE LIST & Zygisk Denylist.
+- ▌Anti-aliasing will be Turned ON.
+- ▌FPP-FOV will be set to '95'.
+- ▌TPP-FOV will be set to '80'.
+- ▌Most main settings set to ULTRA.
+- ▌FRAMERATE from '30' >> '90'.
+- ▌FRAMERATE from '60' >> '90'.
+- ▌AudioQualityLevel from '2' >> '0'.
+- ▌AudioQualityLevel from '1' >> '0'.
+--------
 # STRP x UNLOCKER v1.2
 - Converted To Bash Script Menu !
 - Executable With 'su -c UNLOCKER' !
